@@ -10,24 +10,17 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:Clone" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:ForkSection" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9b9fa6e-f6b2-4f13-9ff5-35b4195c2f52" name="Default Changelist" comment="Repository section completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a9b9fa6e-f6b2-4f13-9ff5-35b4195c2f52" name="Default Changelist" comment="Clone section" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Clone" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599775519531</updated>
       <workItem from="1599775521524" duration="905000" />
-      <workItem from="1600265035390" duration="3765000" />
+      <workItem from="1600265035390" duration="4129000" />
     </task>
     <task id="LOCAL-00001" summary="First section">
       <created>1600266971739</created>
@@ -96,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600270490789</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Clone section">
+      <created>1600271050985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600271050985</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +113,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Clone" />
+                        <option value="ForkSection" />
                       </list>
                     </value>
                   </entry>
@@ -128,17 +128,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First section" />
     <MESSAGE value="Repository section completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Repository section completed" />
+    <MESSAGE value="Clone section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clone section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="438" y="191" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600270673481">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="438" y="191" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600270673481" />
-    <state x="325" y="122" key="Vcs.Push.Dialog.v2" timestamp="1600270502448">
+    <state x="325" y="122" key="Vcs.Push.Dialog.v2" timestamp="1600271301575">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="325" y="122" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600270502448" />
+    <state x="325" y="122" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600271301575" />
     <state x="470" y="234" key="cloudConfig.PluginsDialog" timestamp="1600266547639">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
