@@ -1,22 +1,16 @@
-### Repository ##
+## `Repository` ##
 
-#####
 
- Definition 
----
-Lorem ipsum dolor sit amet, 
-consectetur adipiscing elit, 
-sed do eiusmod tempor incididunt
-ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud 
-exercitation ullamco laboris nisi ut 
-aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit 
-in voluptate velit esse cillum dolore eu 
-fugiat nulla pariatur. 
-Excepteur sint occaecat 
-cupidatat non proident, 
-sunt in culpa qui officia deserunt 
-mollit anim id est laborum.
+Definition:
+----
+"Git is a program that tracks changes made to files. Once installed, 
+Git can be initialized on a project to create a Git repository."
+
+A Git repository is the git folder inside of a project.
+This repository tracks all of the changes made to the files in your project, 
+resulting in a completed project history composed of controlled[edited/modified] 'versions.' 
+
+[Above content cited from axosoft.com](https://blog.axosoft.com/learning-git-repository/)
+
 
 ---
