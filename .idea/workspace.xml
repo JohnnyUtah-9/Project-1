@@ -20,12 +20,13 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:Repository" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Clone" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9b9fa6e-f6b2-4f13-9ff5-35b4195c2f52" name="Default Changelist" comment="">
+    <list default="true" id="a9b9fa6e-f6b2-4f13-9ff5-35b4195c2f52" name="Default Changelist" comment="First section">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Repository" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,8 +67,23 @@
       <option name="presentableId" value="Default" />
       <updated>1599775519531</updated>
       <workItem from="1599775521524" duration="905000" />
-      <workItem from="1600265035390" duration="1027000" />
+      <workItem from="1600265035390" duration="2642000" />
     </task>
+    <task id="LOCAL-00001" summary="First section">
+      <created>1600266971739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600266971739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First section">
+      <created>1600267107335</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600267107335</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +100,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Repository" />
+                        <option value="Clone" />
                       </list>
                     </value>
                   </entry>
@@ -96,18 +112,26 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First section" />
+    <option name="LAST_COMMIT_MESSAGE" value="First section" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="438" y="191" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600266712889">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="438" y="191" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600266712889" />
-    <state x="325" y="122" key="Vcs.Push.Dialog.v2" timestamp="1600266568724">
+    <state x="325" y="122" key="Vcs.Push.Dialog.v2" timestamp="1600267570203">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="325" y="122" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600266568724" />
+    <state x="325" y="122" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600267570203" />
     <state x="470" y="234" key="cloudConfig.PluginsDialog" timestamp="1600266547639">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="470" y="234" key="cloudConfig.PluginsDialog/0.23.1280.749@0.23.1280.749" timestamp="1600266547639" />
+    <state x="390" y="96" key="search.everywhere.popup" timestamp="1600267465308">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state x="390" y="96" key="search.everywhere.popup/0.23.1280.749@0.23.1280.749" timestamp="1600267465308" />
   </component>
 </project>
